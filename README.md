@@ -1,7 +1,7 @@
 # competitveCompiler
 
 This is a small script if you want to compile and run the cpp program in one command.
-Also it will show you the execution time (Real,User,System). Consider 'sys' for competitve programming.
+And this script will also show you the execution time (Real,User,System). Consider 'sys' for competitve programming.
 Make sure scripts and your cpp program in same directory
 
 OS : Linux
