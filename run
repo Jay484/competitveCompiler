@@ -1,0 +1,6 @@
+
+if [ $# -lt 2 ] ; then
+    time ./runtime.sh $1
+else
+    time ./runtime.sh $1 $2    
+fi
